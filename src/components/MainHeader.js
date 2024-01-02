@@ -7,7 +7,7 @@ import { BsSearch } from "react-icons/bs";
 import { BiUser } from "react-icons/bi";
 import { FiHeart } from "react-icons/fi";
 import { HiOutlineShoppingBag } from "react-icons/hi";
-import { RiEnglishInput } from "react-icons/Ri";
+import { RiEnglishInput } from "react-icons/ri";
 import Navbar from "./Navbar";
 
 const MainHeader = () => {
